@@ -2,7 +2,6 @@
   "packages": [
     "packages/*",
     "apps/*",
-    "creator/*",
     "server"
   ],
   "useWorkspaces": true,

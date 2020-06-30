@@ -1,11 +1,10 @@
 {
-  "name": "steedos-server",
+  "name": "steedos-platform",
   "private": true,
   "workspaces": [
     "packages/*",
     "apps/*",
-    "creator/*",
-    "server/*"
+    "server"
   ],
   "scripts": {
     "bootstrap": "lerna bootstrap && yarn run link",

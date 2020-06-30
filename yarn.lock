@@ -1909,10 +1909,10 @@
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
 
-"@steedos/accounts@^1.19.5":
-  version "1.19.5"
-  resolved "https://registry.npm.taobao.org/@steedos/accounts/download/@steedos/accounts-1.19.5.tgz#c7e94a6fdad8cd1ce0c7e1af7dbf9103f49043f9"
-  integrity sha1-x+lKb9rYzRzgx+Gvfb+RA/SQQ/k=
+"@steedos/accounts@^1.19.9":
+  version "1.19.9"
+  resolved "https://registry.npm.taobao.org/@steedos/accounts/download/@steedos/accounts-1.19.9.tgz#fc034a6de4ae48c71eae8683bbb8c98ed08e18f7"
+  integrity sha1-/ANKbeSuSMceroaDu7jJjtCOGPc=
   dependencies:
     "@accounts/mongo" "^0.19.0"
     "@accounts/rest-express" "^0.19.0"

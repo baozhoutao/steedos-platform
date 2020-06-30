@@ -4,7 +4,8 @@
   "workspaces": [
     "packages/*",
     "apps/*",
-    "server"
+    "./*",
+    "server/*"
   ],
   "scripts": {
     "bootstrap": "lerna bootstrap && yarn run link",
